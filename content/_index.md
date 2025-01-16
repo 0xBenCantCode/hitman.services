@@ -4,7 +4,7 @@
 # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
 title = "my blog thing idk"
 +++
-
+*the domain name is a joke. DO NOT email me asking me to kill someone. please and thank you.
 ## Hey, I'm Ben
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beingisdead)
