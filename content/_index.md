@@ -7,7 +7,7 @@ title = "my blog thing idk"
 *the domain name is a joke. DO NOT email me asking me to kill someone. please and thank you.
 ## Hey, I'm Ben
 
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/beingisdead)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/0xBenCantCode)
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)  
 [*ben@hitman.services*](mailto:ben@hitman.services)
 
