@@ -12,7 +12,7 @@ title = "my blog thing idk"
 [*ben@hitman.services*](mailto:ben@hitman.services)
 
 
-I have a passion for all things technology, particularly low-level programming and cyber security.
+I have a passion for all things technology, particularly cyber security.
 
 ~TL;DR Unprofessional Pen-Tester, Professional Breaker Of Things~
 
@@ -20,9 +20,9 @@ I have a passion for all things technology, particularly low-level programming a
 ---
 ## More About Me
 
-I'm an aspiring cyber-security professional, I specialize in web but I'm currently breaking into low-level hacking. More specifically, reverse-engineering, malware analysis, game hacking, and hardware hacking.
+I'm an aspiring cyber-security professional, I currently specialize in web penetration testing.
 
-Recently, my interests have turned more towards hardware hacking. I'm currently trying to hack the First Data FD130 credit card terminal for the sole purpose of running Doom    
+Recently, my interests have turned more towards hardware and low-level hacking. I'm currently trying to hack the First Data FD130 credit card terminal for the sole purpose of running Doom    
 ^^ Write up coming in 2053
 
 ---
@@ -32,7 +32,7 @@ Recently, my interests have turned more towards hardware hacking. I'm currently 
 I don't have much published, most of my projects are unfinished and private  
 Heres a few projects that are noteable.
 
-[![__*Scratched*__](https://github-readme-stats.vercel.app/api/pin/?username=0xbencantcode&repo=scratched&show_icons=True&theme=dark)](https://github.com/0xBenCantCode/Scratched)    
+[![__*Scratched*__](https://github-readme-stats.vercel.app/api/pin/?username=0xbencantcode&repo=scratched&show_icons=True&theme=apprentice)](https://github.com/0xBenCantCode/Scratched)    
 
 ---
 
