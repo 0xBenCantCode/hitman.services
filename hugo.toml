@@ -6,7 +6,6 @@ baseURL = "https://hitman.services"
 theme = 'hugo-bearblog'
 
 # Basic metadata configuration for your blog.
-title = "Hitman 4 Hire"
 author = "Ben"
 copyright = "N/a"
 languageCode = "en-US"
