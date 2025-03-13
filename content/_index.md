@@ -30,10 +30,9 @@ Recently, my interests have turned more towards hardware hacking. I'm currently 
 ## Projects
 
 I don't have much published, most of my projects are unfinished and private  
-Heres a few projects that are noteable in my eyes
+Heres a few projects that are noteable.
 
-- __*Soon™*__    
-(too lazy to code)
+[![__*Scratched*__](https://github-readme-stats.vercel.app/api/pin/?username=0xbencantcode&repo=scratched&show_icons=True&theme=dark)](https://github.com/0xBenCantCode/Scratched)    
 
 ---
 
