@@ -33,4 +33,5 @@ Recently, my interests have turned more towards hardware and low-level hacking. 
 ---
 
 [![Rss](https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white)](https://hitman.services/index.xml)
+
 *the domain name is a joke. DO NOT email me asking me to kill someone. please and thank you.
