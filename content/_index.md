@@ -28,8 +28,7 @@ Recently, my interests have turned more towards hardware and low-level hacking. 
 
 ## Projects
 
-[![__*Scratched*__](https://github-readme-stats.vercel.app/api/pin/?username=0xbencantcode&repo=scratched&show_icons=True&theme=apprentice)](https://github.com/0xBenCantCode/Scratched)
-[![__*Xelera-Parser*__](https://github-readme-stats.vercel.app/api/pin/?username=0xbencantcode&repo=xelera-parser&show_icons=True&theme=apprentice)](https://github.com/0xBenCantCode/Xelera-Parser) 
+[![__*Scratched*__](https://github-readme-stats.vercel.app/api/pin/?username=0xbencantcode&repo=scratched&show_icons=True&theme=apprentice)](https://github.com/0xBenCantCode/Scratched)[![__*Xelera-Parser*__](https://github-readme-stats.vercel.app/api/pin/?username=0xbencantcode&repo=xelera-parser&show_icons=True&theme=apprentice)](https://github.com/0xBenCantCode/Xelera-Parser) 
 
 ---
 
