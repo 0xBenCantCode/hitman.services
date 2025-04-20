@@ -10,8 +10,10 @@ title = "my blog thing idk"
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)  
 [*ben@hitman.services*](mailto:ben@hitman.services)
 
+*p.s I'm available for hire! ^^*
 
-I have a passion for all things technology, particularly cyber security.
+
+I have a passion for all things technology, particularly cybersecurity.
 
 ~TL;DR Unprofessional Pen-Tester, Professional Breaker Of Things~
 
@@ -19,7 +21,7 @@ I have a passion for all things technology, particularly cyber security.
 ---
 ## More About Me
 
-I'm an aspiring cyber-security professional, I currently specialize in web penetration testing.
+I'm an aspiring cybersecurity professional, I currently specialize in web penetration testing. I'm currently a junior in high school.
 
 Recently, my interests have turned more towards hardware and low-level hacking. I'm currently trying to hack the First Data FD130 credit card terminal for the sole purpose of running Doom    
 ^^ Write up coming in 2053
