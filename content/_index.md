@@ -10,14 +10,11 @@ title = "my blog thing idk"
 ![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)  
 [*ben@hitman.services*](mailto:ben@hitman.services)
 
-*p.s I'm available for hire! ^^*
-
-
 I have a passion for all things technology, particularly cybersecurity.
 
 ~TL;DR Unprofessional Pen-Tester, Professional Breaker Of Things~
 
-
+*P.S. I'm always available for hire! ^^*
 ---
 ## More About Me
 
