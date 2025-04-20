@@ -30,6 +30,8 @@ Recently, my interests have turned more towards hardware and low-level hacking. 
 
 [![__*Scratched*__](https://github-readme-stats.vercel.app/api/pin/?username=0xbencantcode&repo=scratched&show_icons=True&theme=apprentice&card_width=380)](https://github.com/0xBenCantCode/Scratched)
 [![__*Xelera-Parser*__](https://github-readme-stats.vercel.app/api/pin/?username=0xbencantcode&repo=xelera-parser&show_icons=True&theme=apprentice&card_width=380)](https://github.com/0xBenCantCode/Xelera-Parser) 
+[![__*CVE-2025-43929*__](https://github-readme-stats.vercel.app/api/pin/?username=0xbencantcode&repo=CVE-2025-43929&show_icons=True&theme=apprentice&card_width=380)](https://github.com/0xBenCantCode/CVE-2025-43929) 
+
 
 ---
 
