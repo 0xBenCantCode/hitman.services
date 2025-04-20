@@ -19,7 +19,9 @@ I have a passion for all things technology, particularly cybersecurity.
 ---
 ## More About Me
 
-I'm an aspiring cybersecurity professional, I currently specialize in web penetration testing. I'm a junior in high school.
+I'm an aspiring cybersecurity professional, I currently specialize in web penetration testing and I'm a junior in high school.
+
+I have real-world experience with web penetration testing and have responsibly disclosed 10+ vulnerabilities in production systems ranging from low to high severity.
 
 Recently, my interests have turned more towards hardware and low-level hacking. I'm currently trying to hack the First Data FD130 credit card terminal for the sole purpose of running Doom    
 ^^ Write up coming in 2053
