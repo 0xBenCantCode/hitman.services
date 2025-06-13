@@ -21,9 +21,6 @@ I'm an aspiring cybersecurity professional, I specialize in web penetration test
 
 I have real-world experience with web penetration testing and have responsibly disclosed 10+ vulnerabilities in production systems ranging from low to high severity.
 
-Recently, my interests have turned more towards hardware and low-level hacking. I'm currently trying to hack the First Data FD130 credit card terminal for the sole purpose of running Doom    
-^^ Write up coming in 2053
-
 ---
 
 ## Projects
