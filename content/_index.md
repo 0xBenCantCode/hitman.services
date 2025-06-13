@@ -12,8 +12,6 @@ title = "my blog thing idk"
 
 I have a passion for all things technology, particularly cybersecurity.
 
-~TL;DR Unprofessional Pen-Tester, Professional Breaker Of Things~
-
 *P.S. I'm always available for hire! ^^*
 
 ---
