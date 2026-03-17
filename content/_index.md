@@ -17,7 +17,7 @@ I have a passion for all things technology, particularly cybersecurity.
 ---
 ## More About Me
 
-I'm an aspiring cybersecurity professional, I specialize in web penetration testing and I'm currently a junior in high school.
+I'm an aspiring cybersecurity professional, I specialize in web penetration testing and I'm currently a senior in high school.
 
 I have real-world experience with web penetration testing and have responsibly disclosed 10+ vulnerabilities in production systems ranging from low to high severity.
 
